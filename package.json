@@ -22,6 +22,6 @@
     "alphanum-sort": "^1.0.2",
     "commander": "^2.20.3",
     "lodash": "^4.17.15",
-    "music-metadata": "^0.8.6"
+    "music-metadata": "^11.12.3"
   }
 }
